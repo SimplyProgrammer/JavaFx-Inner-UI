@@ -1,5 +1,6 @@
-## InnerUI
-This library adds some king of window system what you can have inside of your javafx application.
+## About
+InnerUI adds some king of window system what you can have inside of your javafx application.
+Basically it adds window in window.
 I nevere planed to relese this thing, but why not. 
 Feal free to report any problems, issues or what I should add or change.
 
