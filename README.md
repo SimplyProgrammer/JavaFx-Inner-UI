@@ -6,8 +6,8 @@ Feal free to report any problems, issues or what I should add or change.
 
 ## Info
 * If you want to add or see issues just click on [Issues section](https://github.com/PetoPetko/InnerUI/issues) in up.
-* If you want to see or learn some things about library click on Wiki section in up (Wiki is in progress).
-* If you want to download library, dont use commits section, use releases section or click that big green button "Clone or download".
-* And if you want to see changelog open changelog file or use releases too.
+* If you want to see or learn some things about library click on [Wiki section](https://github.com/PetoPetko/InnerUI/wiki) in up (Wiki is in progress).
+* If you want to download library, dont use commits section, use [Releases section](https://github.com/PetoPetko/InnerUI/releases) or click that big green button "Clone or download" to download latest version.
+* And if you want to see changelog open [changelog file](Changelog.md) or use [Releases section](https://github.com/PetoPetko/InnerUI/releases) too.
 
 Ps. Please forgive me my unprofessionality, I'm new here.
