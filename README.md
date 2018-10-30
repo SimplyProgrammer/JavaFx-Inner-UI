@@ -12,3 +12,4 @@ Feal free to report any problems, issues or what I should add or change.
 * And if you want to see changelog open [changelog file](Changelog.md) or use [Releases section](https://github.com/PetoPetko/InnerUI/releases) too.
 
 Ps. Please forgive me my unprofessionality, I'm new here.
+Pps. Please visit this page sometimes again, because the new version may be release soon.
