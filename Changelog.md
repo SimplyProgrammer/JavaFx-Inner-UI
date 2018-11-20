@@ -27,3 +27,12 @@ What was added:
 * Event handlers.
 * And a lot of more.
 #
+
+# InnerUi 1.1.5
+
+Release date: 11.20.2018 (Evening)
+
+What was added:
+* Bugs fixes
+* Css is now working!
+#
