@@ -11,5 +11,4 @@ Feal free to report any problems, issues or what I should add or change.
 * If you want to download library, dont use commits section, use [Releases section](https://github.com/PetoPetko/InnerUI/releases) or click that big green button "Clone or download" to download latest version.
 * And if you want to see changelog open [changelog file](Changelog.md) or use [Releases section](https://github.com/PetoPetko/InnerUI/releases) too.
 
-Ps. Please forgive me my unprofessionality, I'm new here. <br>
-Pps. Please visit this page sometimes again, because the new version may be release soon.
+Ps. Please visit this page sometimes again, because the new version may be release soon.
