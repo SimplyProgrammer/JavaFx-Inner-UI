@@ -11,7 +11,7 @@ What was added:
 
 # InnerUi 1.0.5 (beta)
 
-Release date: 21.10.2018 (Evening)
+Release date: 10.21.2018 (Evening)
 
 What was added:
 * Couple of methods
@@ -35,4 +35,16 @@ Release date: 11.20.2018 (Evening)
 What was added:
 * Bugs fixes
 * Css is now working!
+#
+
+# InnerUi 1.2.0
+
+Release date: 11.21.2019 (Evening)
+
+What was added:
+* A Lot of new methods to use.
+* Window icon.
+* New custom style system (experimental).
+* Some bugs fixed.
+* A Lot of more.
 #
