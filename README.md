@@ -1,8 +1,8 @@
 ## About
-InnerUI adds some king of window system what you can have inside of your javafx application.
-Basically it adds window in window.
-I nevere planed to relese this thing, but why not. 
-Feal free to report any problems, issues or what I should add or change.
+InnerUI adds some king of window system you can have inside of your javafx application.
+Basically it adds window in to window.
+I nevere planed to relese this thing. This was my attempt to create whole operation system but suddenly I realized that it will not be that easy. I mean, it was utopia to think that one person will make entire operation system. But I thought it would be nice if I publish that what i manage to create before I stop with operation system development. So thats Inner UI.
+Feel free to report any problems, issues or what I should add or change.
 
 ## Info
 * If you want to add or see issues just click on [Issues section](https://github.com/PetoPetko/InnerUI/issues) in up.
@@ -11,4 +11,16 @@ Feal free to report any problems, issues or what I should add or change.
 * If you want to download library, dont use commits section, use [Releases section](https://github.com/PetoPetko/InnerUI/releases) or click that big green button "Clone or download" to download latest version.
 * And if you want to see changelog open [changelog file](Changelog.md) or use [Releases section](https://github.com/PetoPetko/InnerUI/releases) too.
 
-Ps. Please visit this page sometimes again, because the new version may be release soon.
+Ps. Please visit this page sometimes again, because the new version may be release.
+
+## Information about update 1.3.0
+In updat 1.3.0 there will be rework of entire window system. 
+The main thing is WindowBase will extends Node so now you will be able to add window directly in to your layout node.
+This will bring alot of changes like:
+* Class UpdateHandler will be removed followed by every method with is working with!
+* Based on previous point WSS will be changed, may be removed completely replaced by CSS but this is less likely.
+* MoveableWindow will be merged with EmptyWindow.
+* LogicalHandler and PrimitiveHandler will be also removed and replaced by javafx event systen.
+* Also all interfaces (Moveable, Resizable...) will be removed because I find them useless.
+* Class Manager might be changed or removed.
+* Some method become "Deprecated" meaning you should not use it but you will have alot of time to find other solution.
