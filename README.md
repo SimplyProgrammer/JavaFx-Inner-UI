@@ -1,6 +1,6 @@
 ## About
-InnerUI adds some king of window system you can have inside of your javafx application.
-Basically it adds window in to window.
+InnerUI adds some king of window system you can have inside of your JavaFx application.
+Basically it adds window in to window or in other words layout nodes with user interface!
 I nevere planed to relese this thing. This was my attempt to create whole operation system but suddenly I realized that it will not be that easy. I mean, it was utopia to think that one person will make entire operation system. But I thought it would be nice if I publish that what i manage to create before I stop with operation system development. So thats Inner UI.
 Feel free to report any problems, issues or what I should add or change.
 
@@ -17,10 +17,10 @@ Ps. Please visit this page sometimes again, because the new version may be relea
 In updat 1.3.0 there will be rework of entire window system. 
 The main thing is WindowBase will extends Node so now you will be able to add window directly in to your layout node.
 This will bring alot of changes like:
-* Class UpdateHandler will be removed followed by every method with is working with!
-* Based on previous point WSS will be changed, may be removed completely replaced by CSS but this is less likely.
+* Class UpdateHandler will be removed followed by every method that is working with UpdateHandlers and will be replaced with JavaFx properties!
+* Based on previous point WSS will be changed or even completely replaced by CSS.
 * MoveableWindow will be merged with EmptyWindow.
-* LogicalHandler and PrimitiveHandler will be also removed and replaced by javafx event systen.
+* LogicalHandler and PrimitiveHandler will be also removed and replaced by JavaFx event systen.
 * Also all interfaces (Moveable, Resizable...) will be removed because I find them useless.
-* Class Manager might be changed or removed.
+* Class Manager might be changed or completely removed but this is unlikely.
 * Some method become "Deprecated" meaning you should not use it but you will have alot of time to find other solution.
