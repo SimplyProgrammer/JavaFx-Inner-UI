@@ -1,7 +1,7 @@
 ## About
 InnerUI adds some king of window system you can have inside of your JavaFx application.
-Basically it adds window in to window or in other words layout nodes with user interface!
-I nevere planed to relese this thing. This was my attempt to create whole operation system but suddenly I realized that it will not be that easy. I mean, it was utopia to think that one person will make entire operation system. But I thought it would be nice if I publish that what i manage to create before I stop with operation system development. So thats Inner UI.
+Basically it adds window into window or in other words layout nodes with user interface!
+I never planned to release this thing. This was my attempt to create whole operation system but suddenly I realized that it will not be that easy. I mean, it was utopia to think that one person will make entire operation system. But I thought it would be nice if I publish that what I manage to create before I stop with operation system development. So that's Inner UI.
 Feel free to report any problems, issues or what I should add or change.
 
 ## Info
