@@ -1,6 +1,6 @@
 # InnerUi 1.0 (beta)
 
-Release date: 21.10.2018 (Afternoon)
+Release date: 10.21.2018 (Afternoon)
 
 What was added:
 * 4 types of windows
