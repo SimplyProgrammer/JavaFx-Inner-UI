@@ -48,3 +48,17 @@ What was added:
 * Some bugs fixed.
 * A Lot of more.
 #
+
+# InnerUi 1.3.0_pre
+
+Release date: 8.14.2020 (Evening)
+
+What was added:
+* WindowBase is now JavaFx layout node.
+* MoveableWindow was merged with EmptyWindow.
+* UpdateHandlers were removed together with every method working with, and replaced by JavaFx properties.
+* LogicalHandlers and PrimitiveHandlers were also replaced with JavaFx event system.
+* Interfaces (Moveable, Resizable...) were removed. They had no point.
+* Visual enhancements like window attribut clipping and others.
+* Example windows (ColorPicker and Timer) were separated in to own Jar file and JS imitating windows will meet same fate.
+#
