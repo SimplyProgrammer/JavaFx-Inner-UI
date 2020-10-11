@@ -14,13 +14,13 @@ Feel free to report any problems, issues or what I should add or change.
 Ps. Please visit this page sometimes again, because the new version may be release.
 
 ## Information about update 1.3.0
-In updat 1.3.0 there will be rework of entire window system. 
-The main thing is WindowBase will extends Node so now you will be able to add window directly in to your layout node.
+In update 1.3.0 there will be rework of entire window system. 
+The main thing is that WindowBase will extends Node so now you will be able to add window directly in to your layout node.
 This will bring alot of changes like:
 * Class UpdateHandler will be removed followed by every method that is working with UpdateHandlers and will be replaced with JavaFx properties!
 * Based on previous point WSS will be changed or even completely replaced by CSS.
 * MoveableWindow will be merged with EmptyWindow.
 * LogicalHandler and PrimitiveHandler will be also removed and replaced by JavaFx event systen.
-* Also all interfaces (Moveable, Resizable...) will be removed because I find them useless.
+* Also all interfaces (Moveable, Resizable...) will be removed because they are pointless.
 * Class Manager might be changed or completely removed but this is unlikely.
-* Some method become "Deprecated" meaning you should not use it but you will have alot of time to find other solution.
+* Some method will be removed but only inevitable ones, the majority become "Deprecated" meaning you should not use it but you will have alot of time to find other solution (this solution will be provided in new JavaDoc)!
